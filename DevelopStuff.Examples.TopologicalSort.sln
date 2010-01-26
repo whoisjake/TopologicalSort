@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevelopStuff.Examples.TopologicalSort.Library", "DevelopStuff.Examples.TopologicalSort.Library\DevelopStuff.Examples.TopologicalSort.Library.csproj", "{A140FA4F-778F-4637-8A97-C884EAAD819F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C1904B5C-8380-43B3-9782-B9FEC9C868F7}"
+	ProjectSection(SolutionItems) = preProject
+		DevelopStuff.Examples.TopologicalSort.vsmdi = DevelopStuff.Examples.TopologicalSort.vsmdi
+		License.txt = License.txt
+		localtestrun.testrunconfig = localtestrun.testrunconfig
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevelopStuff.Examples.TopologicalSort.TestProject", "DevelopStuff.Examples.TopologicalSort.TestProject\DevelopStuff.Examples.TopologicalSort.TestProject.csproj", "{37660ED3-E74B-4F2A-94B8-32B25C0F4604}"
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = DevelopStuff.Examples.TopologicalSort.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A140FA4F-778F-4637-8A97-C884EAAD819F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A140FA4F-778F-4637-8A97-C884EAAD819F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A140FA4F-778F-4637-8A97-C884EAAD819F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A140FA4F-778F-4637-8A97-C884EAAD819F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37660ED3-E74B-4F2A-94B8-32B25C0F4604}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37660ED3-E74B-4F2A-94B8-32B25C0F4604}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37660ED3-E74B-4F2A-94B8-32B25C0F4604}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37660ED3-E74B-4F2A-94B8-32B25C0F4604}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
